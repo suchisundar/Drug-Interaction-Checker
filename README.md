@@ -1,4 +1,4 @@
-## DDInter - Drug Drug Interaction Website
+## Drug Interaction Checker
 
 ### Description
 
